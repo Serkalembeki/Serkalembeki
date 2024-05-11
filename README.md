@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on **Wollo-KIOT**
 - 🌱 I’m currently looking forward to work on *AI*
 - 👯 I’m looking to collaborate on **developing AI based EV drive system**
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: serkalemdeneke13@gmail.com
 - 😄 Pronouns: she/her
 
