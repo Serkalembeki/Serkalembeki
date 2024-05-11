@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on **Wollo-KIOT**
+- 🔭 I’m currently working at **Wollo-KIOT**
 - 🌱 I’m currently looking forward to work on *AI*
 - 👯 I’m looking to collaborate on **developing AI based EV drive system**
 - 📫 How to reach me: serkalemdeneke13@gmail.com
